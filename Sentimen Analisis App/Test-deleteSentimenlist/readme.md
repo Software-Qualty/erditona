@@ -13,27 +13,26 @@ Sebelum menggunakan kode ini, pastikan Anda telah memenuhi persyaratan berikut:
 
 1. Clone repositori ini ke dalam sistem Anda:
 
-    ```
-    git clone <link-repositori>
-    ```
+   ```
+   git clone <link-repositori>
+   ```
 
 2. Instal selenium dengan menjalankan perintah berikut di terminal:
 
-    ```
-    pip install selenium
-    ```
+   ```
+   pip install selenium
+   ```
+
 3. Pastikan WebDriver telah diunduh dan tersedia di PATH sistem Anda.
 
 ## Penggunaan
 
-1. Buka file `namafile.py` dan lakukan modifikasi sesuai dengan kebutuhan Anda, seperti URL halaman web yang ingin diuji, informasi login, dll. Sesuaikan path lokasi file sebelumkan menjalankan pengujian.
+1. Buka file `delsentimen.py` dan lakukan modifikasi sesuai dengan kebutuhan Anda, seperti URL halaman web yang ingin diuji, informasi login, dll. Sesuaikan path lokasi file sebelumkan menjalankan pengujian.
 
 2. Jalankan pengujian dengan menjalankan perintah berikut di terminal:
 
-    ```
-    python namafile.py
-    ```
+   ```
+   python delsentimen.py
+   ```
 
 3. Tunggu hingga pengujian selesai dieksekusi. Hasil pengujian akan ditampilkan di terminal.
-
-## Selamat! Anda telah menemukan cara untuk membuat hidup Anda lebih mudah dengan mengotomatiskan pengujian aplikasi web menggunakan kode ini. Sekarang, waktu luang Anda dapat digunakan untuk hal-hal yang lebih menyenangkan!
