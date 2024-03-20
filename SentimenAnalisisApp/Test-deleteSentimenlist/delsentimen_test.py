@@ -46,10 +46,10 @@ class SystemTest(unittest.TestCase):
         button.click()
 
         # Tunggu halaman dimuat
-        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, "//a[@href='./topik.html?id=65f8180c3039d625483cb4c1']")))
+        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, "//a[@href='./topik.html?id=65fa7e3e7f64cff07549e983']")))
 
         # Klik kartu
-        card = self.driver.find_element(By.XPATH, "//a[@href='./topik.html?id=65f8180c3039d625483cb4c1']")
+        card = self.driver.find_element(By.XPATH, "//a[@href='./topik.html?id=65fa7e3e7f64cff07549e983']")
         card.click()
 
         # Tunggu tombol hapus dapat diklik
