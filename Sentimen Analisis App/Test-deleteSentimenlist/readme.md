@@ -22,15 +22,16 @@ Sebelum menggunakan kode ini, pastikan Anda telah memenuhi persyaratan berikut:
     ```
     pip install selenium
     ```
+3. Pastikan WebDriver telah diunduh dan tersedia di PATH sistem Anda.
 
 ## Penggunaan
 
-1. Buka file `system_test.py` dan lakukan modifikasi sesuai dengan kebutuhan Anda, seperti URL halaman web yang ingin diuji, informasi login, dll.
+1. Buka file `namafile.py` dan lakukan modifikasi sesuai dengan kebutuhan Anda, seperti URL halaman web yang ingin diuji, informasi login, dll. Sesuaikan path lokasi file sebelumkan menjalankan pengujian.
 
 2. Jalankan pengujian dengan menjalankan perintah berikut di terminal:
 
     ```
-    python system_test.py
+    python namafile.py
     ```
 
 3. Tunggu hingga pengujian selesai dieksekusi. Hasil pengujian akan ditampilkan di terminal.
