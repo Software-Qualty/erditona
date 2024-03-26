@@ -1,8 +1,8 @@
 # Daftar Pengujian
 
-| No  | Judul Projek        | Nama Pengujian | Audience | Link QA                                                                                                         |
-| --- | ------------------- | -------------- | -------- | --------------------------------------------------------------------------------------------------------------- |
-| 1   | SentimenAnalisisApp | Pengujian 1    | User     | [pengujian1](https://software-qualty.github.io/erditona/SentimenAnalisisApp/Test-deleteSentimenlist) |
+| No  | Judul Projek        | Introduction                                                       | Nama Pengujian                | Audience | Link QA                                                                                              |
+| --- | ------------------- | ------------------------------------------------------------------ | ----------------------------- | -------- | ---------------------------------------------------------------------------------------------------- |
+| 1   | SentimenAnalisisApp | Ini adalah aplikasi analisis sentimen yang ada di komentar youtube | Pengujian1-deleteSentimenlist | User     | [pengujian1](https://software-qualty.github.io/erditona/SentimenAnalisisApp/Test-deleteSentimenlist) |
 
 # Panduan Penggunaan
 
