@@ -1,8 +1,8 @@
 # Deskripsi Pengujian
 
-| No  | Objek Pengujian | Hasil      | Lampiran                                                      |
-| --- | --------------- | ---------- | ------------------------------------------------------------- |
-| 1   | Delete Sentimen | Berhasil ✔ | [dokumentasi](<./SeleniumTest_ErditoNaushaAdam(1214031).pdf>) |
+| Objek Pengujian | Hasil      | Lampiran                                                      |
+| --------------- | ---------- | ------------------------------------------------------------- |
+| Delete Sentimen | Berhasil ✔ | [dokumentasi](<./SeleniumTest_ErditoNaushaAdam(1214031).pdf>) |
 
 # Panduan Penggunaan
 
