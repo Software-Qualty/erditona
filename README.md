@@ -2,7 +2,7 @@
 
 | No  | Judul Projek        | Introduction                                                       | Audience | Nama Pengujian                | Link SQA                                                                                             |
 | --- | ------------------- | ------------------------------------------------------------------ | -------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
-| 1   | SentimenAnalisisApp | Ini adalah aplikasi yang dapat menganalisis sentimen dari komentar youtube | User     | Pengujian1-deleteSentimenlist | [pengujian1](https://software-qualty.github.io/erditona/SentimenAnalisisApp/Test-deleteSentimenlist) |
+| 1   | [Trensentimen Apps](https://trensentimen.my.id/) | Ini adalah aplikasi yang dapat menganalisis sentimen dari komentar youtube | User     | Pengujian1-deleteSentimenlist | [pengujian1](https://software-qualty.github.io/erditona/SentimenAnalisisApp/Test-deleteSentimenlist) |
 
 # Panduan Penggunaan
 
