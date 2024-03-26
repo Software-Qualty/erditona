@@ -1,3 +1,9 @@
+# Daftar Pengujian
+
+| No  | Nama Pengujian | Link QA                                                                                                         |
+| --- | -------------- | --------------------------------------------------------------------------------------------------------------- |
+| 1   | Pengujian 1    | [pengujian1](https://github.com/Software-Qualty/erditona/tree/main/SentimenAnalisisApp/Test-deleteSentimenlist) |
+
 # Panduan Penggunaan
 
 Ini adalah kode Python untuk melakukan pengujian otomatis pada aplikasi web menggunakan Selenium.
@@ -13,15 +19,15 @@ Sebelum menggunakan kode ini, pastikan Anda telah memenuhi persyaratan berikut:
 
 1. Clone repositori ini ke dalam sistem Anda:
 
-    ```
-    git clone <link-repositori>
-    ```
+   ```
+   git clone <link-repositori>
+   ```
 
 2. Instal selenium dengan menjalankan perintah berikut di terminal:
 
-    ```
-    pip install selenium
-    ```
+   ```
+   pip install selenium
+   ```
 
 ## Penggunaan
 
@@ -29,9 +35,9 @@ Sebelum menggunakan kode ini, pastikan Anda telah memenuhi persyaratan berikut:
 
 2. Jalankan pengujian dengan menjalankan perintah berikut di terminal:
 
-    ```
-    python namafile.py
-    ```
+   ```
+   python namafile.py
+   ```
 
 3. Tunggu hingga pengujian selesai dieksekusi. Hasil pengujian akan ditampilkan di terminal.
 
