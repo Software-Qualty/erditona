@@ -1,8 +1,8 @@
 # Daftar Pengujian
 
-| No  | Nama Pengujian | Link QA                                                                                                         |
-| --- | -------------- | --------------------------------------------------------------------------------------------------------------- |
-| 1   | Pengujian 1    | [pengujian1](https://github.com/Software-Qualty/erditona/tree/main/SentimenAnalisisApp/Test-deleteSentimenlist) |
+| No  | Judul Projek        | Nama Pengujian | Audience | Link QA                                                                                                         |
+| --- | ------------------- | -------------- | -------- | --------------------------------------------------------------------------------------------------------------- |
+| 1   | SentimenAnalisisApp | Pengujian 1    | User     | [pengujian1](https://github.com/Software-Qualty/erditona/tree/main/SentimenAnalisisApp/Test-deleteSentimenlist) |
 
 # Panduan Penggunaan
 

@@ -1,3 +1,9 @@
+# Deskripsi Pengujian
+
+| No  | Objek Pengujian | Hasil      | Lampiran                                                      |
+| --- | --------------- | ---------- | ------------------------------------------------------------- |
+| 1   | Delete Sentimen | Berhasil ✔ | [dokumentasi](<./SeleniumTest_ErditoNaushaAdam(1214031).pdf>) |
+
 # Panduan Penggunaan
 
 Ini adalah kode Python untuk melakukan pengujian otomatis pada aplikasi web menggunakan Selenium.
